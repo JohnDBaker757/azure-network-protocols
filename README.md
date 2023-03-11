@@ -39,7 +39,7 @@ Installed Wireshark
 <img src="https://i.imgur.com/ddamzsp.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Oing test to inspect packets between the two VM's
+Ping test to inspect packets between the two VM's
 </p>
 <br />
 
@@ -50,3 +50,12 @@ Oing test to inspect packets between the two VM's
 Adding Inbound Security Rule to the Network 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/0SEUF4F.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Connecting Using SSH between VM's
+
+
+
