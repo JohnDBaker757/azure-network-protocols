@@ -23,7 +23,7 @@
 - Step 1 - Installed Wireshark
 - Step 2 - Ping Connection between VM's
 - Step 3 - Adding Inbound Security Rule to the Network
-- Step 4
+- Step 4 - Connecting Using SSH between VM's
 
 <h2>Actions and Observations</h2>
 
